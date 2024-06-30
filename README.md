@@ -1,8 +1,3 @@
-<style>
-  body{
-    background-color: red;
-  }
-</style>
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
